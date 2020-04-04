@@ -1,11 +1,9 @@
-/*allows the page to look the same in all browsers*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/*defines the background color of the page*/
 body {
     background-color: #d9dcd6;
 }
@@ -29,7 +27,6 @@ body {
     color: #d9dcd6;
 }
 
-/*defines style of nav bar*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -43,19 +40,17 @@ body {
     list-style-type: none;
 }
 
-/*defines the style of the individual nav elements*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/*style of the nav bar text*/
 .header nav ul li a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/*the background image below the header and its style*/
+/*the background image below the header*/
 .hero {
     height: 800px;
     width: 100%;
@@ -65,14 +60,12 @@ body {
     background-position: center;
 }
 
-/*style of the main info boxes*/
 .main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/*style of the text*/
 p {
     font-size: 16px;
 }
@@ -87,15 +80,13 @@ p {
     color: #ffffff;
 }
 
-/*style of the info box images*/
-.content img {
-    max-height: 200px;
-}
-
-/*style of the info box headers*/
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.content img {
+    max-height: 200px;
 }
 
 /*tells the info box images where to sit in the boxes*/
@@ -104,7 +95,6 @@ p {
     margin-right: 25px;
 }
 
-/*tells the info box images where to sit in the boxes*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -128,13 +118,11 @@ p {
     color: #ffffff;
 }
 
-/*the style of the sidebar headers*/
-.benefit h2 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/*style of the sidebar images*/
 .benefit img {
     display: block;
     margin: 10px auto;
@@ -149,7 +137,6 @@ p {
     text-align: center;
 }
 
-/*style of the page signoff (excluding copywrite)*/
 .footer h2 {
     font-size: 20px;
 }
