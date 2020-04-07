@@ -1,6 +1,6 @@
 # bc-hw1-unit1
 
-## Live Sit
+## Live Site
 https://mcraepv.github.io/bc-hw1-unit1/
 
 ## Bootcamp refactor HoriSeoN for Accessibility
