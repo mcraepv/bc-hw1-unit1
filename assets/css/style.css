@@ -8,6 +8,11 @@ body {
     background-color: #d9dcd6;
 }
 
+p {
+    font-size: 16px;
+    white-space: normal;
+}
+
 /*Defines the style for the heading of the page (title, nav bar)*/
 .header {
     padding: 20px;
@@ -50,25 +55,10 @@ body {
     white-space: normal;
 }
 
-/*the background image below the header*/
-#hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
 .main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
-
-p {
-    font-size: 16px;
-    white-space: normal;
 }
 
 /*style of the main info boxes*/
@@ -141,4 +131,14 @@ p {
 
 .footer h2 {
     font-size: 20px;
+}
+
+/*the background image below the header*/
+#hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
 }
