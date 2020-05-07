@@ -1,7 +1,7 @@
 # Horiseon Refactor
 
 ## Live Site
-https://mcraepv.github.io/bc-hw1-unit1/
+https://mcraepv.github.io/horiseon-refactor/
 
 ## Bootcamp refactor HoriSeoN for Accessibility
 
