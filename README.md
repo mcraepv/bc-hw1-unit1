@@ -1,4 +1,4 @@
-# bc-hw1-unit1
+# Horiseon Refactor
 
 ## Live Site
 https://mcraepv.github.io/bc-hw1-unit1/
